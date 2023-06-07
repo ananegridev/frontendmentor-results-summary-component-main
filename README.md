@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Page Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Page Frontend Mentor](https://www.frontendmentor.io/solutions/solution-results-summary-component-1f9RGW29A0)
 - Live Site URL: [Page Public](https://frontendmentor-results-summary-component-main.vercel.app)
 
 ## My process
